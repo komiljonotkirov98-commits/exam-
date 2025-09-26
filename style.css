@@ -1,0 +1,19 @@
+.box{
+    text-align: center;
+}
+.kaka{
+ 
+}
+img{
+ border-radius: 20px;
+}
+table,tr,td{
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse:collapse;
+    width: 1400px;
+    height: 50px;
+}
+.loh{
+    text-align: center;
+    width: 1400px;
+}
